@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		Log.e(TAG, "Estoy en create");
+		Log.e(TAG, "Estoy en create :D");
 
 		Button btnSubmit = (Button) findViewById(R.id.btnSubmit);
 
