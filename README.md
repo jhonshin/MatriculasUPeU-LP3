@@ -1,4 +1,4 @@
 MatriculasUPeU-LP3
 ==================
-BIenvenido
+Bienvenido a mi repositorio
 App Android para visualizar las matriculas de la UPeU 
